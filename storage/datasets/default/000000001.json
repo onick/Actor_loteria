@@ -1,0 +1,62 @@
+{
+	"bancas": {
+		"tarde": [
+			{
+				"fecha": "07/03/2025",
+				"tipoSorteo": "Bancas (Tarde)",
+				"numero": "07/03/2025, 43, 05, 50, 1er, 2do, 3er"
+			}
+		],
+		"noche": [
+			{
+				"fecha": "06/03/2025",
+				"tipoSorteo": "Bancas (Noche)",
+				"numero": "06/03/2025, 09, 09, 78, 1er, 2do, 3er"
+			}
+		]
+	},
+	"billetesYQuinielas": [
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Sorteo",
+			"primerPremio": "No disponible",
+			"segundoPremio": "No disponible",
+			"tercerPremio": "No disponible"
+		},
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Billetes y Quinielas, [4410].",
+			"primerPremio": "Billetes y Quinielas, [4410].",
+			"segundoPremio": "02/03/2025",
+			"tercerPremio": "022565"
+		},
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Sorteos anteriores",
+			"primerPremio": "No disponible",
+			"segundoPremio": "No disponible",
+			"tercerPremio": "No disponible"
+		},
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Sorteo",
+			"primerPremio": "No disponible",
+			"segundoPremio": "No disponible",
+			"tercerPremio": "No disponible"
+		},
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Sorteo",
+			"primerPremio": "No disponible",
+			"segundoPremio": "No disponible",
+			"tercerPremio": "No disponible"
+		},
+		{
+			"fecha": "8/3/2025",
+			"sorteo": "Sorteo",
+			"primerPremio": "No disponible",
+			"segundoPremio": "No disponible",
+			"tercerPremio": "No disponible"
+		}
+	]
+}

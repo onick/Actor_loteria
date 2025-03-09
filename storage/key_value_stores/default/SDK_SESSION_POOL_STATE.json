@@ -1,0 +1,71 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_SBgGAgBRp3",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-08T15:35:15.806Z",
+      "createdAt": "2025-03-08T14:45:15.806Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_XAoPUAK9A8",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "cf_clearance",
+            "value": "hvkftU6NfWQzw4Qc1zX4kcIlWFxeGtUqdF7.AWafEjo-1741445136-1.2.1.1-DgqGhUAG.5i3q_hl9riUXCwqx9UWYzs0Mkp3rZEPH4bWzch.ptli_p1TbA3sqZBS5XIBNKnXQQmMc2wjf8eUepGXNJO6cB6mhtOAtlAXirC8rvwaEbKOgz5aQ1DtigOAjsmr_iYayEsouS3MTcS9MCpYpfqfpxhL8Nuu7AjIFu5CZQNPtrZyKxhbA2319lYib3Nf46aD11ITFk3Pnrno4Bo9nkRMuEPoAYjm.ZJ7BwfWLT5jEtN1eKVI.md4WEK45SP19N4QCgWph.7KdB2PTk.wb23o4XKFtSXxwEtEDnn1IHzOeLC7mxPKVxo3YejTKXSzojjs1x0k8nuyNx0PPYyx5uepyVpsSAOzB2fJ_ou4CQZk97kcmcPd9tCbWFJbj3FrWWVhZhSoUMtOFoKJyRfTwal.kjSozhuoygjN4zk",
+            "expires": "2026-03-08T14:45:36.846Z",
+            "domain": "loterianacional.gob.do",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-03-08T14:45:36.948Z",
+            "lastAccessed": "2025-03-08T14:45:36.948Z"
+          },
+          {
+            "key": "da4906b9a86a83e527890c6b0a575f04",
+            "value": "748bbf00dbb100ef75e1f4609d07e81b",
+            "expires": "2025-03-08T15:35:36.939Z",
+            "domain": "loterianacional.gob.do",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-03-08T14:45:36.949Z",
+            "lastAccessed": "2025-03-08T14:45:36.949Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-03-08T15:35:15.865Z",
+      "createdAt": "2025-03-08T14:45:15.865Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

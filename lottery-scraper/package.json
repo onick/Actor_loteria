@@ -1,0 +1,22 @@
+{
+  "name": "lottery-scraper",
+  "version": "1.0.0",
+  "description": "Apify actor for scraping lottery results from loterianacional.gob.do",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.1.8",
+    "crawlee": "^3.13.0",
+    "puppeteer": "^21.5.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "apify",
+    "actor",
+    "scraper",
+    "lottery"
+  ],
+  "author": "",
+  "license": "ISC"
+}
