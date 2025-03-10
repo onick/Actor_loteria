@@ -1,0 +1,35 @@
+{
+  "title": "Lotería Nacional Dominican Scraper Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "startDate": {
+      "title": "Start Date",
+      "type": "string",
+      "description": "Start date for scraping lottery results (format: YYYY-MM-DD)",
+      "editor": "textfield"
+    },
+    "endDate": {
+      "title": "End Date",
+      "type": "string",
+      "description": "End date for scraping lottery results (format: YYYY-MM-DD)",
+      "editor": "textfield"
+    },
+    "maxItems": {
+      "title": "Maximum Items",
+      "type": "integer",
+      "description": "Maximum number of lottery results to scrape",
+      "default": 100,
+      "minimum": 1,
+      "editor": "textfield"
+    },
+    "proxyConfiguration": {
+      "title": "Proxy Configuration",
+      "type": "object",
+      "description": "Proxy settings for the scraper",
+      "default": { "useApifyProxy": true },
+      "editor": "proxy"
+    }
+  },
+  "required": []
+}

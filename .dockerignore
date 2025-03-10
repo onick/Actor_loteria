@@ -1,0 +1,13 @@
+.git
+node_modules
+.idea
+.vscode
+.DS_Store
+apify_storage
+storage
+.env
+.gitignore
+.eslintrc
+.editorconfig
+README.md
+apify.json

@@ -1,0 +1,22 @@
+{
+  "name": "loteria-nacional-scraper",
+  "version": "0.1.0",
+  "description": "Scraper for Lotería Nacional Dominican Republic lottery results",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "apify": "^3.1.1",
+    "crawlee": "^3.3.3",
+    "puppeteer": "^19.7.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

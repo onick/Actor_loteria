@@ -1,9 +1,0 @@
-{
-	"id": "xg0dywWixECrmDr",
-	"json": "{\"id\":\"xg0dywWixECrmDr\",\"url\":\"https://loterianacional.gob.do/\",\"loadedUrl\":\"https://loterianacional.gob.do/\",\"uniqueKey\":\"https://loterianacional.gob.do\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-03-08T14:46:07.024Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://loterianacional.gob.do",
-	"url": "https://loterianacional.gob.do/"
-}
