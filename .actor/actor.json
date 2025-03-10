@@ -1,6 +1,6 @@
 {
   "actorSpecification": 1,
-  "name": "loteria-nacional-scraper",
+  "name": "loterianacional_scraper",
   "title": "Lotería Nacional Dominican Scraper",
   "description": "Scrapes lottery results from Lotería Nacional Dominican Republic website",
   "version": "0.1",
